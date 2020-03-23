@@ -5,6 +5,8 @@ Live statistics tracking the number of confirmed cases, recovered and deaths by 
 
 The plugin provided the shortcode "[covid19]" and "[covid19-table]" to display Live Statistics
 
+New Update Download : <a href="https://github.com/doness/CoViD-19-WP-Plugin/archive/master.zip">Here</a>
+
 Features
 ==================
 - Real-time update the number of confirmed cases, recovered and deaths
