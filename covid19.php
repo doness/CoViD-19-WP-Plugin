@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: CoViD-19
+* Plugin Name: CoViD-19-DNS
 * Description: Live statistics tracking the number of confirmed cases, recovered and deaths by country or global due to the CoViD-19. 
 * Plugin URI: 
 * Version: 1.0.0

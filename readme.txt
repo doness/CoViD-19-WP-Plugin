@@ -1,6 +1,6 @@
-=== CoViD-19 ===
+=== CoViD-19-DNS ===
 Contributors: Doness
-Tags: CoViD-19, ncov, coronavirus, corona, virus, covid19
+Tags: CoViD-19-DNS, CoViD-19, ncov, coronavirus, corona, virus, covid19
 Requires at least: 4.8.2
 Tested up to: 5.3.2
 Requires PHP: 5.6
@@ -22,7 +22,7 @@ Live statistics tracking the number of confirmed cases, recovered and deaths by 
 
 
 == Installation ==
-1. Upload the plugin files to the "/wp-content/plugins/covid-19/" directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the "/wp-content/plugins/CoViD-19-DNS/" directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the "Plugins" screen in WordPress.
 
 == Screenshots ==
