@@ -1,0 +1,121 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CoViD-19\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2020-03-23 12:43+0700\n"
+"PO-Revision-Date: 2014-07-07 18:52+0100\n"
+"Last-Translator: Mte90 <dones.id@bk.ru>\n"
+"Language-Team: Tomiup <dones.id@bk.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: covid19.php:58
+msgid "CoViD-19 Live statistics"
+msgstr ""
+
+#: covid19.php:59
+msgid "CoViD-19"
+msgstr ""
+
+#: covid19.php:105
+msgid "Every 15 minutes"
+msgstr ""
+
+#: covid19.php:154
+msgid "Global"
+msgstr ""
+
+#: covid19.php:156
+msgid "Confirmed"
+msgstr ""
+
+#: covid19.php:157
+msgid "Deaths"
+msgstr ""
+
+#: covid19.php:158
+msgid "Recovered"
+msgstr ""
+
+#: templates/admin.php:6
+msgid "Documentation"
+msgstr ""
+
+#: templates/admin.php:7
+msgid "Countries"
+msgstr ""
+
+#: templates/admin.php:9
+msgid "========== Global =========="
+msgstr ""
+
+#: templates/admin.php:16
+msgid "Shortcode"
+msgstr ""
+
+#: templates/admin.php:17
+msgid "[covid19]"
+msgstr ""
+
+#: templates/admin.php:18
+msgid "Copy & paste this shortcode into post, page or widget."
+msgstr ""
+
+#: templates/admin.php:19
+msgid "Attributes"
+msgstr ""
+
+#: templates/admin.php:21
+msgid "title:"
+msgstr ""
+
+#: templates/admin.php:21
+msgid "Title of box - default is \"Global\""
+msgstr ""
+
+#: templates/admin.php:22
+msgid "label_confirmed:"
+msgstr ""
+
+#: templates/admin.php:22
+msgid "Label Confirmed - default is \"Confirmed\""
+msgstr ""
+
+#: templates/admin.php:23
+msgid "label_deaths:"
+msgstr ""
+
+#: templates/admin.php:23
+msgid "Label Deaths - default is \"Deaths\""
+msgstr ""
+
+#: templates/admin.php:24
+msgid "label_recovered:"
+msgstr ""
+
+#: templates/admin.php:24
+msgid "Label Recovered - default is \"Recovered\""
+msgstr ""
+
+#: templates/admin.php:26
+msgid "Example:"
+msgstr ""
+
+#: templates/admin.php:27
+msgid ""
+"[covid19 country=\"Indonesia\" title=\"Global\" label_confirmed="
+"\"Confirmed\" label_deaths=\"Deaths\" label_recovered=\"Recovered\"]"
+msgstr ""
