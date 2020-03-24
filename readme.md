@@ -7,6 +7,8 @@ The plugin provided the shortcode "[covid19]" and "[covid19-table]" to display L
 
 New Update Download : <a href="https://github.com/doness/CoViD-19-WP-Plugin/archive/master.zip">Here</a>
 
+Demo : <a href="http://blog.ayooklik.id/" target="_blank">Ayooklik Blog</a>
+
 Features
 ==================
 - Real-time update the number of confirmed cases, recovered and deaths
